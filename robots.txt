@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /peekvale/
+
+Sitemap: https://gicklatt.github.io/peekvale/sitemap.xml
